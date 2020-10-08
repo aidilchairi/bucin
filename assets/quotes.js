@@ -1,4 +1,4 @@
 // prettier-ignore
 export default [
-    { author: "Aidil Chairi W", quotes: "Pgn ngirim ke seseorang, tapi ga punya. SadBoy :'(" },
+    { author: "Aidil.Chairi", quotes: "good night to me, And You My Friend's(" },
 ];
