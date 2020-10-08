@@ -1,4 +1,4 @@
 // prettier-ignore
 export default [
-    { author: "Aidil.Chairi", quotes: "good night to me, And You My Friend's(" },
+    { author: "Cap By Rudi.K", quotes: "Dengan Hanya Melihat Air, seseorang bisa belajar banyak hal tentang ketenangan yang sewaktu-waktu bisa menenggelamkan" },
 ];
