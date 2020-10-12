@@ -1,10 +1,9 @@
 export default {
-  nicknames: ["가장 친한 친구"],
+  nicknames: ["Relationship Chat"],
   greetings: {
-    evening: "Good Evening",
-    afternoon: "Good Afternoon",
-    day: "Good Day",
-    morning: "Good Morning",
-    night: "Good Night"
+    afternoon: "Sore",
+    day: "Siang",
+    morning: "Pagi",
+    night: "Malam"
   }
 };
